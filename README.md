@@ -39,15 +39,10 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![step1](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/9c28094d-2e7c-423c-9934-76f4bd755f41)
+![9314517a-c5de-419e-8a85-12282491b8b1](https://github.com/KesavDeepak/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/766c2e85-f68a-4e21-ab13-6519332e6c7b)
+![1e93deb3-a77c-4805-a451-f365581c032b](https://github.com/KesavDeepak/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/9e6e40d1-e022-4644-9a03-10cf69431462)
+![32cb53dc-d3a9-42d7-8c21-8350f4ada2ed](https://github.com/KesavDeepak/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/2df44eb3-ccc2-420e-a332-9e40879f9c3d)
 
-![step3](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/e1ba2736-acaf-4975-805c-737f083060af)
-
-![step4](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/4afafa22-eaec-4658-95fc-b8ee347ad79d)
-
-![step5](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/a5d9d72b-e747-4430-8a01-bd8bcf235ff6)
-
-![step6](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/2117f2e3-e560-4aff-a962-6055a79c69e5)
 
 ### Name: KESAV DEEPAK SRIDHARAN
 ### Register Number: 23002011
